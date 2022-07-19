@@ -1,4 +1,4 @@
-# Text Editor Starter Code
+# Text Editor
 
   ![MIT](https://img.shields.io/badge/license-MIT-green)
 
